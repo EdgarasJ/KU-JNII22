@@ -1,0 +1,160 @@
+.not-bold {
+	font-weight: normal;
+}
+
+.logo {
+	text-align: center!important;
+}
+
+.logo-img {
+	width: 300px;
+	clip: react(0, 100px, 100px, 0);
+}
+
+.menu-side {
+	position: fixed;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	width: 300px;
+}
+
+.active-element {
+	background: #f8f9fa !important;
+	color: #5b7bff !important;
+	border-left: 4px solid #5b7bff;
+	margin-left: -4px;
+}
+
+.active-element a{
+	color: #5b7bff !important;
+	border-left: 4px solid #5b7bff;
+}
+
+.menu-side ul li:hover {
+	background-color: #f8f9fa !important;
+	color: color: #5b7bff !important;
+	border-left: 4px solid #5b7bff;
+	margin-left: -4px;
+}
+
+.menu-side ul li:hover a{
+	color: #5b7bff !important;
+}
+
+.main-container {
+	margin-left: 300px;
+}
+
+.content-container {
+	/* background-color: $gray-200; */
+	background-color: #e9ecef;
+}
+
+.content {
+	background-color: #fff;
+}
+
+.active-tab {
+	color: black;
+	border-bottom: 2px solid #5b7bff;
+}
+
+.portrait-medium {
+	width: 4em;
+}
+
+.portrait-small {
+	width: 2em;
+}
+
+.text-bg-custom-light-violet {
+	background-color: #e1e8ff !important;
+}
+
+.text-custom-light-violet {
+	color: #e1e8ff !important;
+}
+
+.text-custom-violet {
+	color: #5b7bff !important;
+}
+
+.text-bg-custom-violet {
+	background-color: #5b7bff !important;
+}
+
+.text-bg-custom-pink {
+	background-color: #ff92ae !important;
+}
+
+.text-bg-custom-light-green {
+	background-color: #deffed !important;
+}
+
+.text-custom-green {
+	color: #84D8B3 !important;
+}
+
+.text-custom-red {
+	color: #F37476 !important;
+}
+
+.text-bg-custom-red {
+	background-color: #F37476 !important;
+}
+
+.text-bg-custom-green {
+	background-color: #84D8B3 !important;
+}
+
+.text-bg-custom-blue {
+	background-color: #4C6FFF !important;
+}
+
+.text-custom-blue {
+	color: #4C6FFF !important;
+}
+
+.text-bg-custom-light-blue {
+	background-color: #68DBF2 !important;
+}
+
+.text-bg-custom-orange {
+	background-color: #F7936F !important;
+}
+
+.text-custom-orange {
+	color: #F7936F !important;
+}
+
+.text-bg-custom-light-red {
+	background-color: #FFE6E4 !important;
+}
+
+.text-bg-custom-light-grey {
+	background-color: #F7FAFC !important;
+}
+
+.text-custom-cold-grey {
+	color:#A0A0B9 !important;
+}
+
+.icon-circle {
+	width: 4em;
+	height: 4em;
+}
+
+.icon-circle i {
+	margin: 1.2em 0.7em;
+}
+
+.w-20 {
+	width: 20%;
+}
+
+.logo-icon-sim {
+	width: 3em;
+	height: 3em;
+	padding: 0.5em;
+}

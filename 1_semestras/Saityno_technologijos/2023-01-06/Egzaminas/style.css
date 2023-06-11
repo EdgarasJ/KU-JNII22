@@ -1,0 +1,123 @@
+body {
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+.menu-side {
+	position: fixed;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	/* width: 300px; */
+}
+
+.feature img {
+	height:  200px;
+}
+
+.about-img {
+	background-image: url("./img/pc-buider-read-manual.jpg");
+	background-size: cover;
+}
+#section-5 {
+    height: 300px;
+	background-image: url("./img/meeting.jpg");
+    background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+    color: white;
+}
+.exp-img {
+	background-image: url("./img/computer-repairman-ok.webp");
+	background-size: cover;
+}
+
+.cpu-img {
+    background-image: url("./img/cpu-repair.jpg");
+	background-size: cover;
+}
+
+.phone-rep-img {
+    background-image: url("./img/phone-repair.jpg");
+	background-size: cover;
+}
+
+.laptop-rep-img {
+    background-image: url("./img/laptop-repair.jpeg");
+	background-size: cover;
+}
+
+.feature i {
+	color: #5DB18E;
+	font-size: 3em;
+}
+
+.text-color-custom-green {
+    color: #84B9A3 !important;
+}
+
+.btn-custom-green {
+    filter: none;
+    opacity: 1 !important;
+    background-color: #84B9A3 !important;
+    color: white !important;
+}
+
+.btn-custom-green:hover {
+    background-color: white !important;
+    color: #84B9A3 !important;
+}
+
+.text-white-nofilter {
+    filter: none !important;
+    color: white;
+}
+
+.contact-btn {
+    margin: 10% 15%;
+}
+
+.background-color-custom-beige {
+    background-color: #F3F3F3;
+}
+
+.foot {
+    background-color: #2A303C;
+    color: #94919A;
+}
+
+.foot h4 {
+    color: white;
+}
+
+.foot ul li a:hover {
+    color: white;
+}
+
+.nav-link {
+	color: white;
+	font-size: 1.5em;
+}
+
+.active-nav {
+    color: #84B9A3;
+}
+
+.side-menu-items ul li a:hover {
+    color: #84B9A3;
+}
+
+.w-15 {
+	width: 15%;
+}
+
+.w-85 {
+	width: 85%;
+}
+
+.logo-img {
+	margin: 1em auto;
+}
+
+.foot-nav ul li a:hover {
+    color: #84B9A3;
+}

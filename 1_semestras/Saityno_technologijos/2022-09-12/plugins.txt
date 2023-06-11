@@ -1,0 +1,4 @@
+minimap
+pigments
+minimap pigments
+color-picker
