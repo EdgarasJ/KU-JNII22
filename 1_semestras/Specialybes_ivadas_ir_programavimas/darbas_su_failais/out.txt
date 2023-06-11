@@ -1,0 +1,1 @@
+X =  96, Y = 86, Distance from Origin: 128.887548 

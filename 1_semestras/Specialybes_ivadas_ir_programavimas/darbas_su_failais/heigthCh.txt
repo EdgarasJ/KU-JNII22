@@ -1,0 +1,3 @@
+Max Heigth: 210 
+Min Heigth: 154 
+Average Heigth: 177.937500 
