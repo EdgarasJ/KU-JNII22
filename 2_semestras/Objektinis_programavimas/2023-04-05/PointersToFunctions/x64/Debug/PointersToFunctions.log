@@ -1,0 +1,3 @@
+﻿  PointersToFunctions.cpp
+F:\KU\2_semestras\Objektinis_programavimas\2023-04-05\PointersToFunctions\PointersToFunctions.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PointersToFunctions.vcxproj -> F:\KU\2_semestras\Objektinis_programavimas\2023-04-05\PointersToFunctions\x64\Debug\PointersToFunctions.exe
